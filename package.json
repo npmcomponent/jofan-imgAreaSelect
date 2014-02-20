@@ -1,0 +1,19 @@
+{
+  "name": "jofan-imgareaselect",
+  "description": "Component of jQuery plugin of same name",
+  "version": "0.0.1",
+  "keywords": [
+    "ui",
+    "jquery",
+    "select",
+    "crop"
+  ],
+  "main": "index.js",
+  "styles": [
+    "imgAreaSelect.css"
+  ],
+  "dependencies": {
+    "component-jquery": "git://github.com/npmcomponent/component-jquery.git"
+  },
+  "license": "MIT, GPL"
+}
